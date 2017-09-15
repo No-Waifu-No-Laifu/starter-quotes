@@ -9,13 +9,20 @@
     <li>New list item for more than one changes for one entry</li>
     </ul>
 <hr/>
+
+<p>George:</p>
+    <ul>
+    <li>Added tooltips to images</li>
+    </ul>
+
+<p>Steven:</p>
+    <ul>
+    <li>Added Syvester Stallone.jpg to /public/pics</li>
+	<li>Added Syvester Stallone quote entry to the mock database in /application/models/Quotes.php</li>
+    </ul>
+
 <p>George:</p>
     <ul>
     <li>Added changelog.md</li>
     </ul>
 <hr/>
-	<p>Steven:</p>
-    <ul>
-    <li>Added Syvester Stallone.jpg to /public/pics</li>
-	<li>Added Syvester Stallone quote entry to the mock database in /application/models/Quotes.php</li>
-    </ul>

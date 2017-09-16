@@ -10,6 +10,13 @@
     </ul>
 <hr/>
 
+<p>Steven:</p>
+    <ul>
+    <li>Added actor.php to views</li>
+	<li>Added quote display</li>
+	<li>Added show method to welcome.php</li>
+    </ul>
+
 <p>George:</p>
     <ul>
     <li>Added tooltips to images</li>
